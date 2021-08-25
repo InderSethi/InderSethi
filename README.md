@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InderSethi
 - 👀 I’m interested in Coding, Enginnering Tasks  
 - 🌱 I’m currently learning AI 
-- 💞️ I’m looking to collaborate on Projects based impacting world  
+- 💞️ I’m looking to collaborate on Projects that positively impacts the world  
 - 📫 How to reach me | mail me at indersethi@gmail.com
  || www.indersethi.com
 
